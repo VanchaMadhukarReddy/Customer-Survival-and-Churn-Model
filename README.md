@@ -108,6 +108,5 @@ These tools help understand _why_ the model predicts churn for a specific custom
 
 **Vancha Madhukar Reddy**  
 Machine Learning & Full-Stack Developer  
-LinkedIn: _your_link_here_
 
 ---
